@@ -3,7 +3,6 @@
 [Kaggle Link](https://www.kaggle.com/code/devijeganath/motorcycle-parts-sales-analysis/notebook)
 
 ## 💾 The data
-The team assembled the following file:
 
 The sales data has the following fields:
 - "date" - The date, from June to August 2021.
@@ -23,7 +22,6 @@ Create a report to answer questions. Include:
 - [x] Create plots to visualize findings for questions 1 and 2.
 - [ ] Optional: Investigate further (e.g., average purchase value by client type, total purchase value by product line, etc.)
 Summarize your findings.
-
 
 ## Results
 - [Looker Studio Report Link](https://lookerstudio.google.com/reporting/e672fcb5-94f8-4a8b-ac7c-52de3a14d06e)
