@@ -26,6 +26,6 @@ Summarize your findings.
 
 
 ## Results
-[Looker Studio Report Link](https://lookerstudio.google.com/reporting/e672fcb5-94f8-4a8b-ac7c-52de3a14d06e)
-[Looker Studio Report PDF](./Motorcycle_Parts_Sales.pdf)
-[Jupyter Notebook](./notebook.ipynb)
+- [Looker Studio Report Link](https://lookerstudio.google.com/reporting/e672fcb5-94f8-4a8b-ac7c-52de3a14d06e)
+- [Looker Studio Report PDF](./Motorcycle_Parts_Sales.pdf)
+- [Jupyter Notebook](./notebook.ipynb)
