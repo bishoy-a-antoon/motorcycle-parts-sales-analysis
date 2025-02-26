@@ -18,9 +18,9 @@ The sales data has the following fields:
 ## 💪 Challenge
 Create a report to answer questions. Include:
 
-- [ ] What are the total sales for each payment method?
-- [ ] What is the average unit price for each product line?
-- [ ] Create plots to visualize findings for questions 1 and 2.
+- [x] What are the total sales for each payment method?
+- [x] What is the average unit price for each product line?
+- [x] Create plots to visualize findings for questions 1 and 2.
 - [ ] Optional: Investigate further (e.g., average purchase value by client type, total purchase value by product line, etc.)
 Summarize your findings.
 
